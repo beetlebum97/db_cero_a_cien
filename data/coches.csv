@@ -1,0 +1,64 @@
+ID;MODELO;FABRICANTE;DISEÑADOR;ESTUDIO;UNIDADES;PRODUCCIÓN;CONFIGURACIÓN MOTOR;TRACCIÓN;CILINDRADA (cc);MOTOR;POTENCIA (CV) ;TRANSMISIÓN;VELOCIDAD (km/h);0-100 (s);CONSUMO (L/100);PESO (KG)
+1;Lamborghini Countach;Lamborghini;Marcello Gandini;Bertone;1975;1974-1990;Central-Trasero-Longitudinal;Trasera;3929-5167 ;V12 a 60°;375-455;Manual 5;309;4.9;24.4;1065-1490
+2;Pegaso Z-102;Pegaso;Wifredo Ricart;Carrozzeria Touring;84;1951-1958;Delantero-Longitudinal;Trasera;2500-3200;V8 a 90°;160-280;Manual 5;245;8.5;1.5;980
+3;Ferrari Berlinetta Boxer;Ferrari;Leonardo Fioravanti;Pininfarina;2323;1973-1984;Central-Trasero-Longitudinal;Trasera; 4400-4900;V12 plano a 180°;355;Manual 5;288;5.4;;1235-1515
+4;Ferrari Testarossa;Ferrari;Leonardo Fioravanti;Pininfarina;9939;1984-1996;Central-Trasero-Longitudinal;Trasera;4900;V12 plano a 180°;385;Manual 5;290;5.3;15.1;1630
+5;Honda NSX;Honda;Ken Okuyama;Pininfarina;18685;1990-2005;Central-Trasero-Transversal;Cuatro ruedas;2997-3179;V6 a 60°;270-290;Manual;280;4.7;12.4;1392
+6;Lancia D50;Lancia;Vittorio Jano;;7;1954-1956;Delantero;;2488;V8 a 90°;260-285;Manual transxale 5;;;;620
+7;Alfa Romeo 33 Stradale;Alfa Romeo;Franco Scaglione;Carrozzeria Marazzi;18;1967-1969;Central-Longitudinal;Trasera;1995;V8 a 90°;230;Manual 6;260;5.5;;700
+8;Alfa Romeo Carabo;Alfa Romeo;Marcello Gandini;Bertone;1;1968;Central-Longitudinal;Trasera;1995;V8 a 90°;230;Manual 6;250;6.5;;1000
+9;Alfa Romeo Iguana;Alfa Romeo;Giorgetto Giugiaro;Italdesign;1;1969;Central-Longitudinal;Trasera;1995-2593;V8 a 90°;230;Manual 6;260;4.3;;700
+10;Alfa Romeo 33/2 Coupé Speciale;Alfa Romeo;Leonardo Fioravanti;Pininfarina;1;1969;Central-Longitudinal;Trasera;1995;V8 a 90°;245;Manual 6;250;;;720
+11;Alfa Romeo 33 Spider Cuneo;Alfa Romeo;Paolo Martin;Pininfarina;1;1971;Central-Longitudinal;Trasera;1995;V8 a 90°;230;Manual 6;250;;;700
+12;Alfa Romeo Navajo;Alfa Romeo;Marcello Gandini;Bertone;1;1976;Central-Longitudinal;Trasera;1995;V8 a 90°;227;Manual 6;;;;870
+13;Hispano-Suiza 8-10 HP;Hispano-Suiza;Marc Birkigt;;2000;1914-1920;;Trasera;1847;4;30;Manual 4;80;;10;800
+14;Datsun Z;Nissan;Yoshihiko Matsuo;;520000;1969-1978;Delantero-Longitudinal;Trasera;2400;L6;151;Manual sincronizado 4-5;;;11;
+15;DMC DeLorean;DeLorean;Giorgetto Giugiaro;Italdesign;8987;1981-1982;Trasero-Longitudinal;Trasera;2849;V6 a 90°;132;Manual Renault 5;209;9.5;9.8;1233
+16;Morgan Plus 4;Morgan;Peter Morgan;;4584;1950-1969;Central-Delantero-Longitudinal;Trasera;1991-2138;L4;;;;;;838
+17;De Tomaso Mangusta;De Tomaso;Giorgetto Giugiaro;Ghia;401;1967-1971;Central-Trasero;Trasera;4728-4949;V8;306;Manual ZF 5;;;;1300
+18;Pegaso Z-103;Pegaso;Pedro Serra;Carrozzeria Touring;3;1955-1958;Delantero-Longitudinal;Trasera;3900-4700;V8;350;Manual 5;270;;;1357
+19;Ford Mustang;Ford;Gale Halderman;;2978271;1964-1973;Delantero;Trasera;2800-7000;V6 y V8 a 90°;101-375;;201;;;1109-1615
+20;Porsche 911 GT1;Porsche;Tony Hatter;;21;1996-1999;Central-Trasero-Longitudinal;Trasera;3164;Boxer 6;544;Manual 6;310;3.7;;950-1250
+21;Ferrari Dino 206 GT;Ferrari;Aldo Brovarone;Pininfarina;152;1967-1969;Central-Trasero-Transversal;Trasera;1986;V6 a 65°;181;Manual 5;225;;;1140
+22;Ferrari Dino 246 GT;Ferrari;Aldo Brovarone;Pininfarina;3569;1969-1974;Central-Trasero-Transversal;Trasera;2419;V6 a 65°;192;Manual 5;235;;;1080
+23;Lancia Aurelia B20 GT;Lancia;Vittorio Jano;Pininfarina;;1950-1958;Central-Delantero;Trasera;2451;V6;110;Manual 5;180;;;1133
+24;1969 Bertone Spicup;BMW;Marcello Gandini;Bertone;1;1969;Delantero-Longitudinal;;2788;L6;170;;210;;;
+25;Porsche 911;Porsche;Butzi Porsche;;89256;1964-1989;Trasero-Longitudinal;Trasera;1991-3299;Boxer 6;130-330;Manual 4-5;275;5.2;12.8;900-1419
+26;Mazda Cosmo;Mazda;Heiji Kobayashi;;1176;1969-1972;Delantero;Trasera;982;Wankel 2 rotores;132;Manual 5;;;15.5;940
+27;Mini;BMC;Sir Alec Issigonis;;1190000;1959-1968;Delantero-Transversal;Delantera;848-1275;L4;34-76;Manual 4 / Auto 4;170;10.8;5.3;617-686
+28;Alfa Romeo SZ;Alfa Romeo;Robert Opron;Zagato;1036;1989-1991;Delantero-Longitudinal;Trasera;2959;V6 a 60°;210;Manual 5;245;7;;1260
+29;Alfa Romeo RZ;Alfa Romeo;Robert Opron;Zagato;278;1992-1993;Delantero-Longitudinal;Trasera;2959;V6 a 60°;210;Manual 5;233;7;9.9;1380
+30;SEAT 1200 Sport;SEAT;Aldo Sessano;;19332;1975-1980;Delantero-Transversal;Delantera;1197;L4 a 17°;67;Manual 4;157;14.5;7.3;880
+31;Ferrari Daytona 365 GTB/4;Ferrari;Leonardo Fioravanti;Pininfarina;1406;1968-1974;Delantero-Longitudinal;Trasera;4390;V12 a 60° Colombo Tipo 251;352;Manual 5;280;;;1200
+32;Lamborghini Miura;Lamborghini;Marcello Gandini;Bertone;764;1966-1973;Central-Trasero-Transversal;Trasera;3929;V12 a 60°;350-380;Manual 5;280;6.7;18;1292-1245
+33;Riley 2.5 RMB Transformable Coupé 1948;Riley;Walter Kong;;1;1948;Delantero;Trasera;2443;L4;100;Manual 4;;;;
+34;Jaguar XJ-S Lynx;Jaguar;Paolo Gucci;Lynx;67;1983-1996;Delantero-Longitudinal;Trasera;;;;;;;;
+35;Fiat 124 Sport Spider;Fiat;Tom Tjaarda;Pininfarina;;1966-1985;Delantero-Longitudinal;Trasera;1438-1995;L4;90;Manual 5;171;;;945
+36;Porsche 550;Porsche;Erwin Komenda;;90;1953-1956;Central-Trasero;Trasera;1498;Boxer 4;110;Manual 4-5;220;;;550
+37;McLaren F1;McLaren;Gordon Murray;;106;1992-1998;Central;Trasera;6064;V12;625;Manual 6;387;3.2;;1138
+38;Jaguar XK120;Jaguar;William Lyons;;12078;1948-1954;Central-Delantero-Longitudinal;Trasera;3400;L6;160;Manual 4;193;10;;1326
+39;Lancia Delta Integrale;Lancia;Giorgetto Giugiaro;Italdesign;40000;1988-1993;Delantero-Transversal;Cuatro ruedas;1995;L4;180;Manual 5;212;6.9;10;1300
+40;Triumph Fury;Triumph;Giovanni Michelotti;;1;1964;;;1998;L6;;Manual 4;;;;
+41;Mercedes 300 SL;Mercedes;Friedrich Geiger;;3258;1954-1963;Delantero-Longitudinal;Trasera;2962;L6;215;Manual 4;235;9.3;11.6;1650
+42;Mercedes 300 SLR;Mercedes;Rudolf Uhlenhaut;;;1955;Central-Delantero-Longitudinal;;2982;L8;302;Manual 5 Transaxle;290;;40;
+43;Bizzarrini Spyder;Bizzarrini;Giotto Bizzarrini;Carrozzeria Stile Italia;3;1966;;;;V8;;;;;;1286
+44;Lamborghini Marzal;Lamborghini;Marcello Gandini;Bertone;1;1967;Trasero;Trasera;1997;L6;175;Manual 5;225;9.4;;1120
+45;Jaguar E-Type Lightweight;Jaguar;Malcolm Sayer;;12;1963-1964;Delantero;Trasera;3800;L6;344;Manual 5;273;5;;1009
+46;Jaguar XK-SS;Jaguar;Malcolm Sayer;;16;1957;Delantero Longitudional;Trasera;3400;L6;262;Manual 4;246;5.2;;921
+47;Jaguar D-Type;Jaguar;Malcolm Sayer;;71;1954-1957;Delantero Longitudional;Trasera;3000-3800;L6 XK6;262-300;Manual 4;;;;921
+48;Bugatti EB110;Bugatti;Marcello Gandini;;139;;Central-Trasero-Longitudinal;Trasera;3500;V12 a 60° 4 turbos;560-612;Manual 6;355;3.2;;1418-1628
+49;BMW M1;BMW;Giorgetto Giugiaro;Italdesign;453;1978-1981;Central-Longitudinal;Trasera;3500;L6 M88;277;Manual 5;265;5.6;9.6;1300
+50;Chevrolet Corvette Rondine;Chevrolet;Tom Tjaarda;Pininfarina;1;1963;Delantero-Longitudinal;Trasera;5400;V8;360;Manual 4;;;;
+51;Porsche 901;Porsche;Butzi Porsche;;82;1963-1964;Trasero-Longitudinal;Trasera;1991;Boxer 6;130;Manual 5;210;8.3;;1080
+52;Ferrari 288 GTO;Ferrari;Leonardo Fioravanti;Pininfarina;272;1984-1987;Central-Trasero-Longitudinal;Trasera;2855;V8 a 90° Biturbo;400;Manual 5;305;4.9;;1160
+53;Ferrari F40;Ferrari;;Pininfarina;1311;1987-1992;Central-Trasero-Longitudinal;Trasera;2936;V8 a 90° Biturbo;478;Manual 5;324;4.1;18.1;1100
+54;Alfa Romeo Superflow;Alfa Romeo;;Pininfarina;;1956-1960;Delantero;Trasera;3500;P6;270;Manual 5;250;;;
+55;Chevrolet Corvette C3;Chevrolet;Bill Mitchell;;;1967-1982;Delantero;Trasera;5000-7400;V8;167-213;Manual/Automático 3-4;;;15;1629
+56;Porsche 356 Carrera;Porsche;Erwin Komenda;;76313;1948-1965;Trasero-Longitudinal;Trasera;1086-1488;Boxer 4;36-70;Manual 4;175;;;585-830
+57;Aston Martin DB6;Aston Martin;Federico Formenti ;Carrozzeria Touring;1788;1965-1971;Delantero-Longitudinal;Trasera;3995;L6 12v;286;Manual 5 / Auto 3;241;8.4;;1524
+58;Bentley R-Type Continental;Bentley;Federico Formenti ;Carrozzeria Touring;208;1952-1955;Delantero-Longitudinal;Trasera;4566;L6 12v;153;Manual 4 / Auto 4;191;;;1800
+59;Lamborghini Silhouette;Lamborghini;Marcello Gandini;Bertone;54;1976-1979;Central-Trasero-Transversal;Trasera;2996;V8 16v;274;Manual 5 / Auto 3;260;;;1179
+60;Hispano-Suiza Alfonso XIII;Hispano-Suiza;Marc Birkigt;;500;1911-1914;Delantero-Longitudinal;Trasera;3619;L4;;;120;;;660
+61;Mercedes 300 SEL 6.8 AMG;Mercedes;;AMG;1;1971;Delantero-Longitudinal;Trasera;;V8 16v;428;Manual 4 / Auto 4;265;;;1635
+62;Ferrari 250 Testa Rossa;Ferrari;Sergio Scaglietti;Pininfarina;34;1957-1961;Delantero-Longitudinal;Trasera;2953;V12 24v;296;Manual 4;270;;;800
+63;Ferrari Lotec TT1000;Ferrari;Kurt Lotterschmid;Lotec;3;1989-1991;Trasero-Longitudinal;Trasera;4943;V12 24v Biturbo;1000;Manual 5 / Auto 3;370;4.1;;1450

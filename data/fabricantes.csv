@@ -1,0 +1,29 @@
+ID;MARCA;EMPRESA;PAÍS;REGIÓN;SEDE;FUNDACIÓN;DISOLUCIÓN;EMPLEADOS;GRUPO
+1;Lamborghini;Automobili Lamborghini S.p.A.;Italia;Emilia-Romaña;Sant'Agata Bolognese;1963;;2000;Volkswagen AG
+2;Pegaso;Enasa (Empresa Nacional de Autocamiones, S. A.);España;Cataluña;Barcelona;1946;1990;;
+3;Ferrari;Ferrari S.p.A. ;Italia;Emilia-Romaña;Maranello;1947;;4919;Ferrari N.V.
+4;Honda;Honda Motor;Japón;Kanto;Minato;1948;;197039;Honda Group
+5;Lancia;Lancia & C. Fabbrica Automobili;Italia;Piamonte;Turín;1906;;;Stellantis
+6;Alfa Romeo;Alfa Romeo Automobili S.p.A.;Italia;Piamonte;Turín;1910;;;Stellantis
+7;Hispano-Suiza;Hispano-Suiza, Fábrica de Automóviles S.A.;España;Cataluña;Barcelona;1094;1946;;Grupo Peralada
+8;Nissan;Nissan Motor;Japón;Kanto;Yokohama;1933;;147553;Nissan Group
+9;DeLorean;DeLorean Motor Company;Estados Unidos;Michigan;Detroit;1975;1982;2500;
+10;Morgan;Morgan Motor Company;Reino Unido;Inglaterra;Malvern;1909;;177;Invertindustrial
+11;De Tomaso;De Tomaso Automobili S.p.A.;Italia;Emilia-Romaña;Modena;1959;2012;1200;
+12;Ford;Ford Motor Company;Estados Unidos;Michigan;Dearborn;1903;;173000;Ford Group
+13;Porsche;Dr. Ing. h.c. F. Porsche AG;Alemania;Baden-Württemberg;Stuttgart;1931;;39162;Volkswagen AG
+14;BMW;Bayerische Motoren Werke AG;Alemania;Baviera;Munich;1916;;149475;BMW Group
+15;BMC;British Motor Corporation;Reino Unido;Inglaterra;Longbridge;1952;1966;;
+16;Mazda;Mazda Motor Corporation;Japón;Hiroshima;Fuchu;1920;;48750;
+17;SEAT;Sociedad Española de Automóviles de Turismo (S.E.A.T.);España;Cataluña;Martorell;1950;;14721;Volkswagen AG
+18;Riley;Riley (Coventry) Limited;Reino Unido;Inglaterra;Coventry;1896;1969;;
+19;Jaguar;Jaguar Land Rover Automotive PLC;Reino Unido;Inglaterra;Coventry;1935;;39787;Tata Motors
+20;Fiat;Fiat Automobiles S.p.A.;Italia;Piamonte;Turín;1899;;189512;Stellantis
+21;McLaren;McLaren Automotive;Reino Unido;Inglaterra;Woking;1985;;2475;McLaren Group
+22;Triumph;Triumph Motor Company;Reino Unido;Inglaterra;Coventry;1885;1984;;
+23;Mercedes;Mercedes-Benz AG;Alemania;Baden-Württemberg;Stuttgart;1926;;170000;Mercedes-Benz Group
+24;Bizzarrini;Bizzarrini S.p.A.;Italia;Toscana;Livorno;1964;;;Pegasus Automotive Group
+25;Bugatti;Bugatti Automobiles S.A.S.;Francia;Alsacia;Molsheim;1909;;450;Bugatti Rimac
+26;Chevrolet;Chevrolet Division of General Motors Company;Estados Unidos;Michigan;Detroit;1911;;;General Motors
+27;Aston Martin;Aston Martin Lagonda Global Holdings PLC;Reino Unido;Inglaterra;Gaydon;1913;;2473;
+28;Bentley;Bentley Motors Limited;Reino Unido;Inglaterra;Crewe;1919;;3600;Volkswagen AG
